@@ -1,1 +1,2 @@
-"probando"
+probando
+Toy probando si la configuración ahora me permite usar "git commit" en lugar de "git commit -m "Bla bla""
